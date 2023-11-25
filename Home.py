@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 #config page layout to wide
-st.set_page_config(page_title="Home",page_icon="",layout="wide")
+st.set_page_config(page_title="Home",page_icon="🌏",layout="wide")
 
 st.success("**FREQUENCY DISTRIBUTION TABLE**")
 
